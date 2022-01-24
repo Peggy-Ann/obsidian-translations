@@ -43,7 +43,7 @@
 			"option-auto-convert-html": "Automatiskt konvertera HTML",
 			"option-auto-convert-html-description": "Automatiskt konvertera HTML till Markdown när man klistrar in eller drar och släpper från websidor. Använda Ctrl/Cmd+Shift+V för att klistra in utan konvertering.",
 			"option-vim-key-bindings": "Vim tangentbords genvägar",
-			"option-vim-key-bindings-description": "Låter dig använda tangentbords gänevägarna i VIM i källediteraren."
+			"option-vim-key-bindings-description": "Låter dig använda tangentbords genvägarna i VIM i källediteraren."
 		},
 		"file": {
 			"name": "Filer & Länkar",
@@ -207,13 +207,13 @@
 			"tooltip-downloaded-times_plural": "Nerladdade {{count}} gånger",
 			"button-install": "Installera",
 			"label-no-results-found": "Inga resultat hittade.",
-			"msg-failed-to-load-manifest": "Det ginck inte att ladda insticksmodulens manifest.",
+			"msg-failed-to-load-manifest": "Det gick inte att ladda insticksmodulens manifest.",
 			"label-version": "Version: {{version}}",
 			"label-currently-installed-version": " (Installerad version: {{version}})",
 			"label-by-author": "Av ",
 			"label-repository": "Repository: ",
-			"button-update": "Updatera",
-			"label-no-readme": "Denna insticksmodule har inte någon \"README\" fil.",
+			"button-update": "Uppdatera",
+			"label-no-readme": "Denna insticksmodul har inte någon \"README\" fil.",
 			"msg-installing-plugin": "Installerar insticksmodul \"{{name}}\"...",
 			"msg-failed-to-install-plugin": "Misslyckades med att installera insticksmodul \"{{name}}\".",
 			"msg-successfully-installed-plugin": "Installation av insticksmodul \"{{name}}\" lyckades.",
