@@ -741,24 +741,24 @@
 			"action-open": "Öppna slumpmässigt vald sida"
 		},
 		"outline": {
-			"name": "Outline",
-			"desc": "Displays the outline of the current file or linked pane.",
-			"action-open": "Open outline",
-			"action-open-pane": "Open the outline of the current file",
-			"tab-title": "Outline of {{displayText}}",
-			"label-no-headings": "No headings found."
+			"name": "Disposition",
+			"desc": "Visar dispostionen av den aktiva sidan eller den länkade panelen.",
+			"action-open": "Öppna dispostion",
+			"action-open-pane": "Öppna dispostionen av den aktiva sidan",
+			"tab-title": "Disposition av {{displayText}}",
+			"label-no-headings": "Hittade inga rubriker."
 		},
 		"word-count": {
-			"name": "Word count",
-			"desc": "Show word count in the status bar."
+			"name": "Ordräknare",
+			"desc": "Visar antal ord i statuslisten."
 		},
 		"slides": {
-			"name": "Slides",
-			"desc": "Present from Markdown. Use \"---\" to separate slides.",
-			"action-start": "Start presentation"
+			"name": "Bilder",
+			"desc": "Presentera från Markdown. Använd \"---\" för att separera bilder.",
+			"action-start": "Starta presentation"
 		},
 		"audio-recorder": {
-			"name": "Audio recorder",
+			"name": "Ljud inspelning",
 			"desc": "Record audio and save as attachment.",
 			"action-start": "Start recording audio",
 			"action-stop": "Stop recording audio",
